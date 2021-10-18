@@ -1,0 +1,38 @@
+Weekly planning meeting
+
+Monday/18th october 21/11am-12pm
+
+Team: Professional services
+
+Action Employees
+            Ernest        Rexilia        Aswin        Askin
+            Kalyan        Joel           Alan         Arul
+
+# ernest
+    He will be working in term project in texting this week. a part of texting to be done there
+
+# Aswin
+    he will be working in filesharing UI and fix android issue and also in group project.He will give the UI work to arul and he needs to check the files and design on pop-ups in reducated app.
+
+# Rexilia
+    She has some group assignments in reducated app and working in handling more submission in an instance and in teachers portal some bug fixes including design bugs.
+
+# Kalyan 
+    He is about to learn loops and iterables this week and he has some exercies to finish and correcting the mistakes of code structures.
+
+# Askin
+  Hope world wide team:
+    they are struck in some point they need to bring in more volunteers and part of chapters still pending work in selecting country. And there are no current projects in hands right now. In urgent projects, will not have reciever and the money goes back to sender.So the fund preferences are relief,disaster management.So they are working in financial dashboard program.
+    And the user admin page is being empty, all the names should be listed here.
+    Volunteers chapter is secondary.
+    
+# Joel
+   He will work in volunteer managament in the donor app.And filter based design in donor app.
+
+# Alan
+   He got some diffrent plans this week as he will be taking leave for few days.
+He  is working in UI and need to work in user eco-system addition(cluster).And need to submit the project soon.
+
+# Arul
+  He will work in improving mobile UI in reducated app.In the drag and drop section option in image, pdf and some formats.He created basic empty states and need to work on it this week.
+
